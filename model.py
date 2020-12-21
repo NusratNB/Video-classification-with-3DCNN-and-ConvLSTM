@@ -82,8 +82,5 @@ class Model_3d(object):
         model.summary()
         return model
 
-if __name__ == '__main__':
-    model = Model_3d(32,224,224,3)
-    model.get_model()
 
 
