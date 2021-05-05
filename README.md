@@ -3,4 +3,3 @@ Custom implementation of the
 paper
 
 https://openaccess.thecvf.com/content_ICCV_2017_workshops/w44/html/Zhang_Learning_Spatiotemporal_Features_ICCV_2017_paper.html
- 
